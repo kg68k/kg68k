@@ -7,10 +7,10 @@
 開発ツール
 - [dis - ソースコードジェネレータ for X680x0](https://github.com/kg68k/dis) 逆アセンブラ
 - [HLK evolution](https://github.com/kg68k/hlk-ev) SILK Hi-Speed Linker v3.01の改造版
+- [GNU Make](https://github.com/kg68k/gnu-make-human68k) Human68k移植版
 - [u8tosj](https://github.com/kg68k/u8tosj) UTF-8 to Shift_JIS converter
 - [RUKA assembler macro](https://github.com/kg68k/ruka-macro)
 - [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa)
-- GNU Make version 3.79 human68k-1.4 ... [MAKEHU14.ZIP](https://kg68k.github.io/kg68k/arc/MAKEHU14.ZIP)
 
 情報表示
 - [System Information Extended Edition](https://github.com/kg68k/si-ee) X680x0のシステムレポート
