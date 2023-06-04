@@ -15,7 +15,7 @@
 情報表示
 - [System Information Extended Edition](https://github.com/kg68k/si-ee) X680x0のシステムレポート
 - [X680x0 ROM 識別機](https://kg68k.github.io/x680x0-romid/)
-- info-line version 1.02 ... [INFOL102.ZIP](https://kg68k.github.io/kg68k/arc/INFOL102.ZIP)
+- [infoline](https://github.com/kg68k/infoline) ファンクションキー表示行に各種情報を表示する
 
 デバイスドライバ
 - [HIOCS PLUS](https://github.com/kg68k/hiocs-plus) HIOCS.X version 1.10+16の改造版
