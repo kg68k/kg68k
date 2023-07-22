@@ -24,7 +24,7 @@
 - [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
   ... Console driverの動作を制御するツール
 - [PCM8A 改造版](https://github.com/kg68k/pcm8a)
-- lzd / lzdsys version 1.21 ... [LZD121.ZIP](https://kg68k.github.io/kg68k/arc/LZD121.ZIP)
+- [LZD - Lempel-Ziv Data compressor](https://github.com/kg68k/lzd) ... ファイルの圧縮・自動展開
 - (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10 ...
   [TWSYS10.ZIP](https://kg68k.github.io/kg68k/arc/TWSYS10.ZIP)
 
