@@ -1,11 +1,12 @@
 開発資料
-- ぷにぐらま～ずまにゅある
+- [ぷにぐらま～ずまにゅある](https://github.com/kg68k/puni) ... プログラミング資料集
 - [Inside X68000 シリーズ非公式正誤表](https://kg68k.github.io/InsideX68000-errata/)
 - [Xperiment68k](https://github.com/kg68k/xperiment68k) ... 実験的なコード集
 - [x68.memo](https://github.com/kg68k/x68.memo) ... X680x0に関するメモ
 
 開発ツール
 - [dis - ソースコードジェネレータ for X680x0](https://github.com/kg68k/dis) ... 逆アセンブラ
+- HAS060X.X ... HAS060.X version 3.09+91の改造版 (WIP)
 - [HLK evolution](https://github.com/kg68k/hlk-ev) ... SILK Hi-Speed Linker v3.01の改造版
 - [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
 - [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
