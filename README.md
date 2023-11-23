@@ -6,7 +6,7 @@
 
 開発ツール
 - [dis - ソースコードジェネレータ for X680x0](https://github.com/kg68k/dis) ... 逆アセンブラ
-- HAS060X.X ... HAS060.X version 3.09+91の改造版 (WIP)
+- [HAS060X.X](https://github.com/kg68k/has060xx) ... HAS060.X version 3.09+91の改造版
 - [HLK evolution](https://github.com/kg68k/hlk-ev) ... SILK Hi-Speed Linker v3.01の改造版
 - [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
 - [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
