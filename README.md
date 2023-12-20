@@ -4,6 +4,9 @@
 - [Xperiment68k](https://github.com/kg68k/xperiment68k) ... 実験的なコード集
 - [x68.memo](https://github.com/kg68k/x68.memo) ... X680x0に関するメモ
 
+Windows/Linux用のツール
+- [run68x](https://github.com/kg68k/run68x) ... run68の改造版
+
 開発ツール
 - [dis - ソースコードジェネレータ for X680x0](https://github.com/kg68k/dis) ... 逆アセンブラ
 - [HAS060X.X](https://github.com/kg68k/has060xx) ... HAS060.X version 3.09+91の改造版
@@ -11,7 +14,7 @@
 - [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
 - [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
 - [RUKA assembler macro](https://github.com/kg68k/ruka-macro) ... アセンブラ用マクロファイル
-- [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa)
+- [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
 
 情報表示
 - [System Information Extended Edition](https://github.com/kg68k/si-ee) ... X680x0のシステムレポート
@@ -25,9 +28,12 @@
   ... Console driver Type-D version 1.09cの改造版
 - [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
   ... Console driverの動作を制御するツール
-- [LZD - Lempel-Ziv Data compressor](https://github.com/kg68k/lzd) ... ファイルの圧縮・自動展開
 - [PCM8A 改造版](https://github.com/kg68k/pcm8a)
+
+ディスク
+- [LZD - Lempel-Ziv Data compressor](https://github.com/kg68k/lzd) ... ファイルの圧縮・自動展開
+- [fsck](https://github.com/kg68k/fsck) ... File System Checker Ver 1.03の改造版
 
 その他のツール
 - [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
-- [run68x](https://github.com/kg68k/run68x) ... run68の改造版
+
