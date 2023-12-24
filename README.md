@@ -36,4 +36,5 @@ Windows/Linux用のツール
 
 その他のツール
 - [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
+- [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
 
