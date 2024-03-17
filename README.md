@@ -15,6 +15,7 @@ Windows/Linux用のツール
 * [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
 * [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
 * [RUKA assembler macro](https://github.com/kg68k/ruka-macro) ... アセンブラ用マクロファイル
+* [gcc1p](https://github.com/kg68k/gcc1p) ... gcc version 1.30 Tool#2(X680x0)(GCC真里子版)の改造版
 * [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
   ([変換済みファイル](https://github.com/kg68k/xc21-libxca/releases))
 
