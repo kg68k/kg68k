@@ -16,6 +16,7 @@ Windows/Linux用のツール
 * [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
 * [RUKA assembler macro](https://github.com/kg68k/ruka-macro) ... アセンブラ用マクロファイル
 * [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
+  ([変換済みファイル](https://github.com/kg68k/xc21-libxca/releases))
 
 情報表示
 * [System Information Extended Edition](https://github.com/kg68k/si-ee) ... X680x0のシステムレポート
