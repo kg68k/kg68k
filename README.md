@@ -36,6 +36,7 @@ Windows/Linux用のツール
 ディスク
 * [LZD - Lempel-Ziv Data compressor](https://github.com/kg68k/lzd) ... ファイルの圧縮・自動展開
 * [fsck](https://github.com/kg68k/fsck) ... File System Checker Ver 1.03の改造版
+* [GRADX](https://github.com/kg68k/gradx) ... GRAD.r V1.30の改造版
 
 その他のツール
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
