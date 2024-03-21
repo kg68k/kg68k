@@ -26,7 +26,6 @@ Windows/Linux用のツール
 
 デバイスドライバ
 * [HIOCS PLUS](https://github.com/kg68k/hiocs-plus) ... HIOCS.X version 1.10+16の改造版
-* [(V)TwentyOne.sys](https://github.com/kg68k/twentyonesys) ... TwentyOne.x TW136C14の改造版
 * [condrv(em).sys - Console driver (バックログ専用)](https://github.com/kg68k/condrv)
   ... Console driver Type-D version 1.09cの改造版
 * [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
@@ -34,9 +33,11 @@ Windows/Linux用のツール
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
 
 ディスク
+* [(V)TwentyOne.sys](https://github.com/kg68k/twentyonesys) ... TwentyOne.x TW136C14の改造版
 * [LZD - Lempel-Ziv Data compressor](https://github.com/kg68k/lzd) ... ファイルの圧縮・自動展開
 * [fsck](https://github.com/kg68k/fsck) ... File System Checker Ver 1.03の改造版
 * [GRADX](https://github.com/kg68k/gradx) ... GRAD.r V1.30の改造版
+* [SUSIEX](https://github.com/kg68k/susiex) ... susie.x V1.21Aの改造版
 
 その他のツール
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
