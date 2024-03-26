@@ -40,6 +40,7 @@ Windows/Linux用のツール
 * [SUSIEX](https://github.com/kg68k/susiex) ... susie.x V1.21Aの改造版
 
 その他のツール
+* [mint](https://github.com/kg68k/mint) ... 2画面ファイラ
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
 * [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
 
