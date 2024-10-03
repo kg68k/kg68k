@@ -18,6 +18,7 @@ Windows/Linux用のツール
 * [gcc1p](https://github.com/kg68k/gcc1p) ... gcc version 1.30 Tool#2(X680x0)(GCC真里子版)の改造版
 * [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
   ([変換済みファイル](https://github.com/kg68k/xc21-libxca/releases))
+* aspp ... アセンブラ用プリプロセッサ(開発中)。
 
 情報表示
 * [System Information Extended Edition](https://github.com/kg68k/si-ee) ... X680x0のシステムレポート
@@ -30,6 +31,10 @@ Windows/Linux用のツール
   ... Console driver Type-D version 1.09cの改造版
 * [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
   ... Console driverの動作を制御するツール
+
+音楽・音声
+* [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコード。
+  プライベートリポジトリにつき招待が必要です。
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
 
 ディスク
@@ -43,4 +48,3 @@ Windows/Linux用のツール
 * [mint](https://github.com/kg68k/mint) ... 2画面ファイラ
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
 * [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
-
