@@ -33,6 +33,8 @@ Windows/Linux用のツール
   ... Console driverの動作を制御するツール
 
 音楽・音声
+* [Z-MUSIC Ver.2](https://github.com/kg68k/zmusic2) ... Z-MUSIC Ver.2.08、Ver.2.08e、
+  ZMUSIC.L Version 2.01のソースコード
 * [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコード。
   プライベートリポジトリにつき招待が必要です。
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
