@@ -24,6 +24,7 @@ Windows/Linux用のツール
 * [System Information Extended Edition](https://github.com/kg68k/si-ee) ... X680x0のシステムレポート
 * [X680x0 ROM 識別機](https://kg68k.github.io/x680x0-romid/)
 * [infoline](https://github.com/kg68k/infoline) ... ファンクションキー表示行に各種情報を表示する
+* [exectrace](https://github.com/kg68k/exectrace) ... DOS _EXECの呼び出し情報を表示する
 
 デバイスドライバ
 * [HIOCS PLUS](https://github.com/kg68k/hiocs-plus) ... HIOCS.X version 1.10+16の改造版
