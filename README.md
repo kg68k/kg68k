@@ -30,14 +30,15 @@ Windows/Linux用のツール
 * [HIOCS PLUS](https://github.com/kg68k/hiocs-plus) ... HIOCS.X version 1.10+16の改造版
 * [condrv(em).sys - Console driver (バックログ専用)](https://github.com/kg68k/condrv)
   ... Console driver Type-D version 1.09cの改造版
-* [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
-  ... Console driverの動作を制御するツール
+  * [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
+    ... condrv(em).sysの動作を制御するツール
+  * [libcondrv](https://github.com/kg68k/libcondrv) ... condrv(em).sysの動作を制御するライブラリ
 
 音楽・音声
 * [Z-MUSIC Ver.2](https://github.com/kg68k/zmusic2) ... Z-MUSIC Ver.2.08、Ver.2.08e、
-  ZMUSIC.L Version 2.01のソースコード
-* [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコード。
-  プライベートリポジトリにつき招待が必要です。
+  ZMUSIC.L Version 2.01のソースコードアーカイブ
+* [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコードアーカイブ
+  (プライベートリポジトリにつき招待が必要)
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
 
 ディスク
