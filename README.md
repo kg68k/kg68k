@@ -37,6 +37,7 @@ Windows/Linux用のツール
 音楽・音声
 * [Z-MUSIC Ver.2](https://github.com/kg68k/zmusic2) ... Z-MUSIC Ver.2.08、Ver.2.08e、
   ZMUSIC.L Version 2.01のソースコードアーカイブ
+* [Z-MUSIC Ver.3](https://github.com/kg68k/zmusic3) ... Z-MUSIC Ver.3.02Cのソースコードアーカイブ
 * [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコードアーカイブ
   (プライベートリポジトリにつき招待が必要)
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
