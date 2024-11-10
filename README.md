@@ -18,6 +18,7 @@ Windows/Linux用のツール
 * [gcc1p](https://github.com/kg68k/gcc1p) ... gcc version 1.30 Tool#2(X680x0)(GCC真里子版)の改造版
 * [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
   ([変換済みファイル](https://github.com/kg68k/xc21-libxca/releases))
+* [LIBC](https://github.com/kg68k/libc-src) ... LIBC 1.1.32Aのソースコードアーカイブ
 * aspp ... アセンブラ用プリプロセッサ(開発中)。
 
 情報表示
