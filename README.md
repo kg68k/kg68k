@@ -1,17 +1,16 @@
+Windows/Linux用のツール
+* [run68x](https://github.com/kg68k/run68x) ... run68の改造版
+
 開発資料
 * [ぷにぐらま～ずまにゅある](https://github.com/kg68k/puni) ... プログラミング資料集
 * [Inside X68000 シリーズ非公式正誤表](https://kg68k.github.io/InsideX68000-errata/)
 * [Xperiment68k](https://github.com/kg68k/xperiment68k) ... 実験的なコード集
 * [x68.memo](https://github.com/kg68k/x68.memo) ... X680x0に関するメモ
 
-Windows/Linux用のツール
-* [run68x](https://github.com/kg68k/run68x) ... run68の改造版
-
 開発ツール
 * [dis - ソースコードジェネレータ for X680x0](https://github.com/kg68k/dis) ... 逆アセンブラ
 * [HAS060X.X](https://github.com/kg68k/has060xx) ... HAS060.X version 3.09+91の改造版
 * [HLKX](https://github.com/kg68k/hlkx) ... SILK Hi-Speed Linker v3.01の改造版
-  * [HLK evolution](https://github.com/kg68k/hlk-ev) ... 旧バージョン
 * [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
 * [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8 to Shift_JIS converter
 * [RUKA assembler macro](https://github.com/kg68k/ruka-macro) ... アセンブラ用マクロファイル
@@ -55,3 +54,5 @@ Windows/Linux用のツール
 * [mint](https://github.com/kg68k/mint) ... 2画面ファイラ
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
 * [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
+* [Graphic Mask](https://github.com/kg68k/graphicmask) ... Graphic Mask(gm.x 0.87、gmss.x 0.62)の改造版
+
