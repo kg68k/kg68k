@@ -59,4 +59,5 @@
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
 * [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
 * [Graphic Mask](https://github.com/kg68k/graphicmask) ... Graphic Mask(gm.x 0.87、gmss.x 0.62)の改造版
+* [CONMOD](https://github.com/kg68k/conmod) ... 画面の設定変更と設定状態の表示を行う
 
