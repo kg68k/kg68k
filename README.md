@@ -43,8 +43,8 @@
   ZMUSIC.L Version 2.01のソースコードアーカイブ
 * [Z-MUSIC Ver.3](https://github.com/kg68k/zmusic3) ... Z-MUSIC Ver.3.02Cのソースコードアーカイブ
 * [MPCM](https://github.com/kg68k/mpcm) ... MPCM version 0.45Aのソースコードアーカイブ
-* [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bとv0.48b+1のソースコードアーカイブ
-  (プライベートリポジトリにつき招待が必要)
+* [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bのソースコードアーカイブ
+  (プライベートリポジトリにつき招待が必要)。改造版v0.48+2のソースもあり
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
 
 ディスク
