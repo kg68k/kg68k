@@ -31,12 +31,13 @@
 * [exectrace](https://github.com/kg68k/exectrace) ... DOS _EXECの呼び出し情報を表示する
 * [tracex - DOS CALL Tracer](https://github.com/kg68k/tracex) ... trace.x version 0.1の改造版
 
-デバイスドライバ
+コンソール
 * [HIOCS PLUS](https://github.com/kg68k/hiocs-plus) ... HIOCS.X version 1.10+16の改造版
 * [condrv(em).sys - Console driver (バックログ専用)](https://github.com/kg68k/condrv)
   ... Console driver Type-D version 1.09cの改造版
   * [condrv(em).sys manager XCONT](https://github.com/kg68k/condrv-xcont)
     ... condrv(em).sysの動作を制御するツール
+* [Xtxt](https://github.com/kg68k/xtxt) ... Xtxt.X 12dot font console IOCS driver version 0.63の改造版
 
 音楽・音声
 * [Z-MUSIC Ver.2](https://github.com/kg68k/zmusic2) ... Z-MUSIC Ver.2.08、Ver.2.08e、
