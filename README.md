@@ -47,6 +47,7 @@
 * [PCM8](https://github.com/kg68k/pcm8) ... PCM8 v0.48bのソースコードアーカイブ
   (プライベートリポジトリにつき招待が必要)。改造版v0.48+2のソースもあり
 * [PCM8A 改造版](https://github.com/kg68k/pcm8a)
+* [XAPNEL](https://github.com/kg68k/xapnel-src) ... XAPNEL version 1.04のソースコードアーカイブ
 
 ディスク
 * [(V)TwentyOne.sys](https://github.com/kg68k/twentyonesys) ... TwentyOne.x TW136C14の改造版
