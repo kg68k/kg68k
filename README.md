@@ -12,10 +12,11 @@
 * [HAS060X.X](https://github.com/kg68k/has060xx) ... HAS060.X version 3.09+91の改造版
 * [HLKX](https://github.com/kg68k/hlkx) ... SILK Hi-Speed Linker v3.01の改造版
 * [GNU Make](https://github.com/kg68k/gnu-make-human68k) ... Human68k移植版
+* [gcc1p](https://github.com/kg68k/gcc1p) ... gcc version 1.30 Tool#2(X680x0)(GCC真里子版)の改造版
 * [src2build](https://github.com/kg68k/src2build)
   ... UTF-8で記述されたファイルをShift_JISに変換しつつbuildディレクトリにコピー
 * [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8からShift_JISへの文字コード変換
-* [gcc1p](https://github.com/kg68k/gcc1p) ... gcc version 1.30 Tool#2(X680x0)(GCC真里子版)の改造版
+* [nmx](https://github.com/kg68k/nmx) ... オブジェクトファイルに含まれるシンボル名を表示する(nm)
 * aspp ... アセンブラ用プリプロセッサ(開発中)。
 
 開発ツール(ライブラリ)
