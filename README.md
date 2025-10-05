@@ -65,4 +65,5 @@
 * [QuineX](https://github.com/kg68k/quinex) ... アセンブリ言語で書かれたクワイン
 * [Graphic Mask](https://github.com/kg68k/graphicmask) ... Graphic Mask(gm.x 0.87、gmss.x 0.62)の改造版
 * [CONMOD](https://github.com/kg68k/conmod) ... 画面の設定変更と設定状態の表示を行う
+* [webx-src](https://github.com/kg68k/webx-src) ... WebXpression ver 0.46のソースコードアーカイブ
 
