@@ -17,6 +17,7 @@
   ... UTF-8で記述されたファイルをShift_JISに変換しつつbuildディレクトリにコピー
 * [u8tosj](https://github.com/kg68k/u8tosj) ... UTF-8からShift_JISへの文字コード変換
 * [nmx](https://github.com/kg68k/nmx) ... オブジェクトファイルに含まれるシンボル名を表示する(nm)
+* [cvx](https://github.com/kg68k/cvx) ... X形式実行ファイルをR形式実行ファイルに変換する
 * aspp ... アセンブラ用プリプロセッサ(開発中)。
 
 開発ツール(ライブラリ)
