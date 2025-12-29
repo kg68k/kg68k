@@ -59,6 +59,7 @@
 * [fsck](https://github.com/kg68k/fsck) ... File System Checker Ver 1.03の改造版
 * [GRADX](https://github.com/kg68k/gradx) ... GRAD.r V1.30の改造版
 * [SUSIEX](https://github.com/kg68k/susiex) ... susie.x V1.21Aの改造版
+* [getscsiid](https://github.com/kg68k/getscsiid) ... 指定ドライブのSCSI IDを表示する
 
 その他のツール
 * [mint](https://github.com/kg68k/mint) ... 2画面ファイラ
