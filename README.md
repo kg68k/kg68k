@@ -25,6 +25,7 @@
 * [libcondrv](https://github.com/kg68k/libcondrv) ... condrv(em).sysの動作を制御するライブラリ
 * [libzm2](https://github.com/kg68k/libzm2) ... Z-MUSIC v2のファンクションコールを呼ぶC言語用ライブラリ
 * [mintreadline](https://github.com/kg68k/mintreadline) ... mintで使用している行入力ルーチン
+* [cheaders](https://github.com/kg68k/cheaders) ... C言語用のヘッダファイル
 * [XC2.1ライブラリ変換用バッチファイル](https://github.com/kg68k/xc21-ltoa) ... \*LIB.L → lib\*.a
   ([変換済みファイル](https://github.com/kg68k/xc21-libxca/releases))
 * [LIBC](https://github.com/kg68k/libc-src) ... LIBC 1.1.32Aのソースコードアーカイブ
