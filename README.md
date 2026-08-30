@@ -62,6 +62,7 @@
 * [GRADX](https://github.com/kg68k/gradx) ... GRAD.r V1.30の改造版
 * [SUSIEX](https://github.com/kg68k/susiex) ... susie.x V1.21Aの改造版
 * [getscsiid](https://github.com/kg68k/getscsiid) ... 指定ドライブのSCSI IDを表示する
+* [disk9scver](https://github.com/kg68k/disk9scver) ... 9SCDRV.Xのバージョンを表示する
 
 アーカイバ・圧縮ツール
 * [Info-ZIP](https://github.com/kg68k/info-zip-human68k) ... Zip、UnZipのHuman68k移植版
